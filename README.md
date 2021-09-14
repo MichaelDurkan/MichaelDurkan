@@ -8,7 +8,7 @@ I'm Azure, MCSE and Juniper Networks certified.
 
 - 🔭 Where I work ...
 
-I work as an ICT Infrastructure Engineer for a multi-national telecommunications company. I work mainly on Microsoft technologies, but am integrating some Automation, Linux and OpenSource components into my day-to-day role.
+I work as an Senior Engineer for Ekco, an Irish-owned Managed Services Provider. I work mainly on Microsoft technologies, but am integrating some Automation, Linux and OpenSource components into my day-to-day role.
 
 - 🌱 What I'm learning ...
 
